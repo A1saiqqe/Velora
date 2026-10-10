@@ -50,15 +50,6 @@ If you have Python 3.11, replace `py -3.12` with `py -3.11`.
 
 Choose your music folder in the app settings if the default location doesn't point to your collection. Velora indexes your files; it doesn't copy the music into the repository.
 
-## Run tests
-
-```bat
-python -m compileall -q .
-python -m unittest discover -s tests -v
-```
-
-On Windows, you can also run `run_tests.bat`.
-
 ## Build a portable Windows version
 
 On a 64-bit Windows machine with Python 3.11 or 3.12, run:
