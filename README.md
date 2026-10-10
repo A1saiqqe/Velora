@@ -16,10 +16,6 @@ A desktop music player for Windows, built with Python and CustomTkinter. Velora 
 - Show track artwork and a lyrics panel when information is available
 - Package the app for Windows with PyInstaller
 
-## Screenshots
-
-Screenshots of the running app will be added here. I prefer to use captures from the actual Windows build so they show the real interface rather than mockups.
-
 ## Requirements
 
 - Windows 10 or 11, 64-bit
