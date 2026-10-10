@@ -1,0 +1,5 @@
+# Supported runtime: CPython 3.11 or 3.12 on Windows 10/11
+customtkinter==5.2.2
+pygame-ce==2.5.8
+Pillow>=10.4,<13
+mutagen>=1.47,<2
