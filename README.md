@@ -82,11 +82,3 @@ tests/        Automated tests
 ui/           Pages, components, and theme
 app.py        Application entry point
 ```
-
-## Local data and privacy
-
-The repository doesn't include a music library, local database, or cached artwork. Those are created or selected when you run the app. Keep personal audio files, local settings, API keys, and other private data out of commits.
-
-## License
-
-No license has been added yet. Until one is chosen, the code remains under the default copyright terms; please contact the author before reusing or redistributing it.
